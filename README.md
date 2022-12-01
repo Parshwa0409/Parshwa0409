@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parshwa0409
-- 👀 I’m interested in doing combined projects and learning.
+- 👀 I’m interested in learing big data & blockchain.
 - 🌱 I’m currently learning machine learning using python and app dev using flutter.
-- 💞️ I’m looking to collaborate on any projects...
+- 💞️ I’m looking to collaborate on intresting projects...
 - 📫 You can reach me @8197462988 & @parshwapatil9@gmail.com 
 
 <!---
